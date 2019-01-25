@@ -491,7 +491,7 @@ comments_tidy_final <- comments_tidy %>%
 ```
 
 
-2.3 Text mining with tidytext:: First analyses
+2.3 Text mining with tidytext: First analyses
 ========================================================
 class: small-code
 
@@ -515,14 +515,14 @@ comments_tidy_final %>%
 ```
 
 
-2.3 Text mining with tidytext:: First analyses
+2.3 Text mining with tidytext: First analyses
 ========================================================
 class: small-code
 
 <img src="text_as_data_presentation-figure/fig3-1.png" title="plot of chunk fig3" alt="plot of chunk fig3" style="display: block; margin: auto;" />
 
 
-2.3 Text mining with tidytext:: First analyses
+2.3 Text mining with tidytext: First analyses
 ========================================================
 class: small-code
 
